@@ -1,0 +1,7 @@
+C:\Users\0031432312025\source\repos\prjBridgeLive\prjBridgeLive\bin\Debug\prjBridgeLive.exe.config
+C:\Users\0031432312025\source\repos\prjBridgeLive\prjBridgeLive\bin\Debug\prjBridgeLive.exe
+C:\Users\0031432312025\source\repos\prjBridgeLive\prjBridgeLive\bin\Debug\prjBridgeLive.pdb
+C:\Users\0031432312025\source\repos\prjBridgeLive\prjBridgeLive\obj\Debug\prjBridgeLive.csproj.AssemblyReference.cache
+C:\Users\0031432312025\source\repos\prjBridgeLive\prjBridgeLive\obj\Debug\prjBridgeLive.csproj.CoreCompileInputs.cache
+C:\Users\0031432312025\source\repos\prjBridgeLive\prjBridgeLive\obj\Debug\prjBridgeLive.exe
+C:\Users\0031432312025\source\repos\prjBridgeLive\prjBridgeLive\obj\Debug\prjBridgeLive.pdb

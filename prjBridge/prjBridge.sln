@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjBridge", "prjBridge\prjBridge.csproj", "{E3836562-A4C1-4FAB-A841-BBD50C62D49F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3836562-A4C1-4FAB-A841-BBD50C62D49F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3836562-A4C1-4FAB-A841-BBD50C62D49F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3836562-A4C1-4FAB-A841-BBD50C62D49F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3836562-A4C1-4FAB-A841-BBD50C62D49F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EE70ECC-CB4B-4AB5-9441-14C3C764683B}
+	EndGlobalSection
+EndGlobal

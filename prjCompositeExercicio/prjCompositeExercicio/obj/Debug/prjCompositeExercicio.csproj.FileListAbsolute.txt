@@ -1,0 +1,7 @@
+C:\Users\0031432312025\source\repos\prjCompositeExercicio\prjCompositeExercicio\bin\Debug\prjCompositeExercicio.exe.config
+C:\Users\0031432312025\source\repos\prjCompositeExercicio\prjCompositeExercicio\bin\Debug\prjCompositeExercicio.exe
+C:\Users\0031432312025\source\repos\prjCompositeExercicio\prjCompositeExercicio\bin\Debug\prjCompositeExercicio.pdb
+C:\Users\0031432312025\source\repos\prjCompositeExercicio\prjCompositeExercicio\obj\Debug\prjCompositeExercicio.csproj.AssemblyReference.cache
+C:\Users\0031432312025\source\repos\prjCompositeExercicio\prjCompositeExercicio\obj\Debug\prjCompositeExercicio.csproj.CoreCompileInputs.cache
+C:\Users\0031432312025\source\repos\prjCompositeExercicio\prjCompositeExercicio\obj\Debug\prjCompositeExercicio.exe
+C:\Users\0031432312025\source\repos\prjCompositeExercicio\prjCompositeExercicio\obj\Debug\prjCompositeExercicio.pdb
